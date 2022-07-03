@@ -37,3 +37,4 @@ while mulai == True:
     if i == 0: #If the limit is run out, this will printout
         print('Kesempatan mencoba sudah habis') # Tell no more try to guess
         print('Jawaban Yang benar adalah = ' + str(angka)) # Tell the correct answer
+        mulai = False # To end the game
