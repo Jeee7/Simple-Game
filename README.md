@@ -7,3 +7,4 @@ Build in some programming language
 
 Available program : 
 - Python (.py)
+- Go (.go)
